@@ -81,15 +81,17 @@
 
 [![Product Name Screen Shot][product-screenshot]](https://example.com)
 
-There are many great README templates available on GitHub; however, I didn't find one that really suited my needs so I created this enhanced one. I want to create a README template so amazing that it'll be the last one you ever need -- I think this is it.
+I am just a normal developer like you, always struggle with what to eat tonight. And the most important thing is you always dont know what you are having in the fridge. EVERYTIME you determine to cook something, you may often find you dont have all the ingredients or you are missing something. In this project I am aiming to develop a monitor for everyone, all you need to do is take a picture of the receipt, and our friend will help you remember what you have. In this project we will also save a lot receipt for cooking different dishes, therefore when you want to cook something amazing it will tell you if you have enough ingredients (maybe it can order the ones you are missing? dont know how far this will go anyway).
+For common things like fruit/vergitables/meats it will also taking care of telling you when to throw away based on a complicated statistic model (wont explain here cuz I dont understand it as well).
 
-Here's why:
+Project Milestone:
 
-- Your time should be focused on creating something amazing. A project that solves a problem and helps others
-- You shouldn't be doing the same tasks over and over like creating a README from scratch
-- You should implement DRY principles to the rest of your life :smile:
-
-Of course, no one template will serve all projects since your needs may be different. So I'll be adding more in the near future. You may also suggest changes by forking this repo and creating a pull request or opening an issue. Thanks to all the people have contributed to expanding this template!
+- Image to word
+- A great DB of course
+- SELECT the BEST receipts for dinner
+- put the logic together maybe also help you to select what to eat
+- calculate how many calories you gonna take (who really cares)
+-
 
 Use the `BLANK_README.md` to get started.
 
@@ -201,26 +203,9 @@ Distributed under the MIT License. See `LICENSE.txt` for more information.
 
 ## Contact
 
-Your Name - [@your_twitter](https://twitter.com/your_username) - email@example.com
+ViniY - [@Discord](https://discord.com/channels/895888368666304523/895888368666304525) - email@example.com
 
-Project Link: [https://github.com/your_username/repo_name](https://github.com/your_username/repo_name)
-
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
-
-<!-- ACKNOWLEDGMENTS -->
-
-## Acknowledgments
-
-Use this space to list resources you find helpful and would like to give credit to. I've included a few of my favorites to kick things off!
-
-- [Choose an Open Source License](https://choosealicense.com)
-- [GitHub Emoji Cheat Sheet](https://www.webpagefx.com/tools/emoji-cheat-sheet)
-- [Malven's Flexbox Cheatsheet](https://flexbox.malven.co/)
-- [Malven's Grid Cheatsheet](https://grid.malven.co/)
-- [Img Shields](https://shields.io)
-- [GitHub Pages](https://pages.github.com)
-- [Font Awesome](https://fontawesome.com)
-- [React Icons](https://react-icons.github.io/react-icons/search)
+Project Link: [https://github.com/ViniY/refrigeratorMonitor](https://github.com/ViniY/refrigeratorMonitor)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
